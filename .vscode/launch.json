@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "java-anatomia-classes_ca39ca5a"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
